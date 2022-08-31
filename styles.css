@@ -1,0 +1,48 @@
+title
+{
+  font-weight: 200%;
+
+}
+body
+{
+  background-color: #191970;
+  background-image:url(messi.jpg);
+  background-size: cover;
+}
+h1{
+  font-size: 300%;
+  font-style:normal;
+  font-family: monospace;
+  width: auto;
+  height: auto;
+}
+
+.imageheading{
+
+}
+.matches
+{
+  text-align: center;
+
+}
+a {
+  background-color: #0000CD;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:link {
+  background-color: lightblue;
+}
+
+a:visited {
+  background-color:#0000CD;
+}
+
+a:hover {
+  background-color: lightblue;
+}

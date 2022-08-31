@@ -1,0 +1,22 @@
+.heading{
+  text-align: center;
+font-size: 400%;
+font-family: monospace;
+font-weight:bolder;
+color: white;
+background-color: #191970;
+border-color: white;
+
+}
+body{
+  background-image: url(new.jpg);
+  background-size: cover;
+
+}
+.table{
+  margin-top: 5%;
+  margin-left: 35%;
+  font-size: 150%;
+  text-align: center;
+  margin-right: 35%;
+}
